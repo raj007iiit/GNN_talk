@@ -78,7 +78,7 @@ Key takeaway:
 
 ## 🖥️ Demo App (`/demo_app`)
 
-🎯 **`gnn_explainer_app.py`**
+🎯 **`https://neurograph-fmri-gnn-explorer-695890547372.us-west1.run.app/`**
 
 A lightweight demo application that:
 
@@ -118,4 +118,56 @@ This repository treats explainability as a **scientific requirement**, not a cos
 
 This material is especially suitable for:
 
-- Mathematici
+- Mathematicians curious about ML on graphs
+- Graph theorists exploring modern learning paradigms
+- Researchers working on brain and biological networks
+- Faculty teaching AI to interdisciplinary audiences
+- Students seeking intuition before equations
+
+No prior deep learning expertise is required.
+
+---
+
+## 🛠️ How to use this repository
+
+1. **Start with the slides** to build intuition  
+2. **Run Notebook A** to understand how graphs enter neural networks  
+3. **Proceed to Notebook B** to see learning in action  
+4. **Explore Notebook C** to understand explainability  
+5. **Use the demo app** for visualization and engagement  
+
+---
+
+## 📚 Suggested Background Reading
+
+- Kipf & Welling, *Semi-Supervised Classification with Graph Convolutional Networks*
+- Gilmer et al., *Neural Message Passing for Quantum Chemistry*
+- Ying et al., *GNNExplainer: Generating Explanations for Graph Neural Networks*
+- Battaglia et al., *Relational Inductive Biases, Deep Learning, and Graph Networks*
+
+---
+
+## 👤 Author
+
+**Ebin Deni Raj**  
+FACTS-H Lab  
+Indian Institute of Information Technology Kottayam  
+
+Focus areas:
+- Responsible & Explainable AI
+- Graph-based learning
+- Interdisciplinary AI education
+- Trustworthy machine learning systems
+
+---
+
+## ⭐ Final Note
+
+If this repository helps you:
+- understand GNNs better,
+- explain them more clearly,
+- or trust them a little more,
+
+then it has served its purpose.
+
+Feel free to fork, reuse, and adapt for teaching and research.
